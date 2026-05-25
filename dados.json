@@ -1,0 +1,13 @@
+{
+  "rows": [
+    { "id": 0, "name": "Ativos de Rede (Hardware e Software)", "s": 1440, "b": 0, "e": 709 },
+    { "id": 1, "name": "Servidores", "s": 237, "b": 0, "e": 117 },
+    { "id": 2, "name": "Sistemas e Ambientes Ferroviários", "s": 100, "b": 0, "e": 0 },
+    { "id": 3, "name": "SaaS", "s": 100, "b": 0, "e": 0 },
+    { "id": 4, "name": "Endpoint", "s": 100, "b": 0, "e": 0 },
+    { "id": 5, "name": "Aplicações Corporativas", "s": 46, "b": 0, "e": 13 },
+    { "id": 6, "name": "Aplicações Ferroviárias", "s": 22, "b": 0, "e": 1 },
+    { "id": 7, "name": "Cloud - Dependências de Software", "s": 401, "b": 0, "e": 1 }
+  ],
+  "updated": "inicial"
+}
